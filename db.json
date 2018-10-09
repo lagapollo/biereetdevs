@@ -11,15 +11,15 @@
       "id": 2,
       "name": "Chimay rouge",
       "concentration": 7.0,
-      "type":"dubbel",
-      "brand":"trappist",
+      "type":"amber",
+      "brand":"dubbel",
       "logoUrl":"https://img.saveur-biere.com/img/p/85-14342-v4_product_img.jpg"
     },
     {
       "id": 3,
       "name": "Rochefort 10",
       "concentration": 11.3,
-      "type":"amber",
+      "type":"triple",
       "brand":"quadrupel",
       "logoUrl":"https://img.saveur-biere.com/img/p/91-14652-v4_product_img.jpg"
     }
