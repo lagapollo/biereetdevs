@@ -1,0 +1,11 @@
+{
+  "beers": [
+    { "id": 1, "name": "Chimay Bleue" },
+    { "id": 2, "title": "Chimay rouge" },
+    { "id": 3, "title": "Rochefort 10" }
+  ],
+  "users": [
+    { "id": "slaure@umanis.com", "lastname": "Laure", "firstname": "Sylvain" }, 
+    { "id": "nbrouet@umanis.com", "lastname": "Brouet", "firstname": "Nicolas" },
+  ]
+}
