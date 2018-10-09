@@ -22,6 +22,14 @@
       "type":"triple",
       "brand":"quadrupel",
       "logoUrl":"https://img.saveur-biere.com/img/p/91-14652-v4_product_img.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Leffe rituel",
+      "concentration": 9.0,
+      "type":"triple",
+      "brand":"leffe",
+      "logoUrl":"https://img.saveur-biere.com/img/p/7688-18308-v4_product_img.jpg"
     }
   ],
   "users": [{
