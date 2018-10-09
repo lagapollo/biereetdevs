@@ -1,15 +1,27 @@
 {
   "beers": [{
       "id": 1,
-      "name": "Chimay Bleue"
+      "name": "Chimay Bleue", 
+      "concentration": 9.0,
+      "type":"brown",
+      "brand":"dubbel",
+      "logoUrl":"https://img.saveur-biere.com/img/p/87-14343-v4_product_img.jpg"
     },
     {
       "id": 2,
-      "title": "Chimay rouge"
+      "name": "Chimay rouge",
+      "concentration": 7.0,
+      "type":"dubbel",
+      "brand":"trappist",
+      "logoUrl":"https://img.saveur-biere.com/img/p/85-14342-v4_product_img.jpg"
     },
     {
       "id": 3,
-      "title": "Rochefort 10"
+      "name": "Rochefort 10",
+      "concentration": 11.3,
+      "type":"amber",
+      "brand":"quadrupel",
+      "logoUrl":"https://img.saveur-biere.com/img/p/91-14652-v4_product_img.jpg"
     }
   ],
   "users": [{
